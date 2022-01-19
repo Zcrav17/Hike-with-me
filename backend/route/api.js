@@ -1,15 +1,7 @@
-# Hike-with-me
-The app that allows you to compete and hike with everyone
+cont
 
-# npm i 
-'node'
-'angular'
-
-
-
-
-## https://rapidapi.com/trailapi/api/trailapi
-<!-- var axios = require("axios").default;
+// https://rapidapi.com/trailapi/api/trailapi
+var axios = require("axios").default;
 
 var options = {
   method: 'GET',
@@ -24,10 +16,10 @@ axios.request(options).then(function (response) {
 	console.log(response.data);
 }).catch(function (error) {
 	console.error(error);
-}); -->
+});
 
-## https://rapidapi.com/trailapi/api/trailapi
-<!-- var axios = require("axios").default;
+// https://rapidapi.com/trailapi/api/trailapi
+var axios = require("axios").default;
 
 var options = {
   method: 'GET',
@@ -42,10 +34,10 @@ axios.request(options).then(function (response) {
 	console.log(response.data);
 }).catch(function (error) {
 	console.error(error);
-}); -->
+});
 
-## https://rapidapi.com/trailapi/api/trailapi
-<!-- var axios = require("axios").default;
+// https://rapidapi.com/trailapi/api/trailapi
+var axios = require("axios").default;
 
 var options = {
   method: 'GET',
@@ -60,10 +52,10 @@ axios.request(options).then(function (response) {
 	console.log(response.data);
 }).catch(function (error) {
 	console.error(error);
-}); -->
+});
 
-## https://rapidapi.com/trailapi/api/trailapi
-<!-- var axios = require("axios").default;
+// https://rapidapi.com/trailapi/api/trailapi
+var axios = require("axios").default;
 
 var options = {
   method: 'GET',
@@ -79,10 +71,10 @@ axios.request(options).then(function (response) {
 	console.log(response.data);
 }).catch(function (error) {
 	console.error(error);
-}); -->
+});
 
-## https://rapidapi.com/trailapi/api/trailapi
-<!-- var axios = require("axios").default;
+// https://rapidapi.com/trailapi/api/trailapi
+var axios = require("axios").default;
 
 var options = {
   method: 'GET',
@@ -107,4 +99,4 @@ axios.request(options).then(function (response) {
 	console.log(response.data);
 }).catch(function (error) {
 	console.error(error);
-}); -->
+});
